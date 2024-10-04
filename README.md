@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulRGadu
-- 👀 I’m interested in .NET
-- 🌱 I’m currently learning C#
+- 👀 I’m .NET developer
+- 🌱 I’m currently learning Cloud technologies
 
 <!---
 AbdulRGadu/AbdulRGadu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
